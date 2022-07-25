@@ -29,7 +29,7 @@ Vascular lesion
 
 
 ## Contact
-Created by [@elavarasan45] - feel free to contact me!
+Created by @elavarasan45 - feel free to contact me!
 
 
 <!-- Optional -->
